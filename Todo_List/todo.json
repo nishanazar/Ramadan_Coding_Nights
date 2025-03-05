@@ -1,0 +1,10 @@
+[
+    {
+        "task": "Practice programming for 2 hours",
+        "done": true
+    },
+    {
+        "task": "Complete the assignment",
+        "done": false
+    }
+]
